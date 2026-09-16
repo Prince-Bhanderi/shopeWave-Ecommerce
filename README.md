@@ -574,7 +574,7 @@ correctness. Run it with:
 
 ```bash
 cd backend
-npm run smoke-test
+npm run dev
 ```
 
 ---
