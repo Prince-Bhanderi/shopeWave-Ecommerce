@@ -581,4 +581,4 @@ npm run smoke-test
 
 ## License
 
-MIT — free to use, modify, and build on for your own projects.
+This project is licensed under the [MIT License](LICENSE)
